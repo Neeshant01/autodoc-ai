@@ -1,6 +1,6 @@
 # AutoDoc AI
 
-Private Expo app and FastAPI backend for AI-assisted documentary video generation workflows.
+Mobile and backend workspace for AI-assisted documentary scripting, visual planning, and video production workflows.
 
 ## Stack
 
@@ -16,7 +16,7 @@ Private Expo app and FastAPI backend for AI-assisted documentary video generatio
 
 ## Status
 
-- private project
+- public project
 - active local development
 
 Built by Nishant Kumar

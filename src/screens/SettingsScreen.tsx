@@ -72,7 +72,7 @@ export default function SettingsScreen() {
   };
 
   const handleGetKey = () => {
-    Linking.openURL('https://aistudio.google.com/apikey');
+    Linking.openURL('https://ai.google.dev/gemini-api/docs/api-key');
   };
 
   const maskedKey = apiKey
@@ -147,7 +147,7 @@ export default function SettingsScreen() {
             <TouchableOpacity onPress={handleGetKey} style={styles.getKeyLink}>
               <Ionicons name="open-outline" size={14} color={COLORS.accent} />
               <Text style={styles.getKeyText}>
-                Get a free API key from Google AI Studio →
+                Get a free Gemini API key
               </Text>
             </TouchableOpacity>
           </View>
